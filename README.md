@@ -32,9 +32,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditasinghb&label=Profile%20views&color=0e75b6&style=flat" alt="muditasinghb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditasinghb&theme=dracula" alt="muditasinghb" /></a> </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditasinghb&layout=compact&theme=dark" alt=muditasinghb />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=muditasinghb&show_icons=true&locale=en&theme=dark" alt="muditasinghb" /></p>
