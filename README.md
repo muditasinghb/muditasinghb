@@ -5,10 +5,10 @@
 - 👯 I’m looking to collaborate on **Data Analytics and ML project**
 - 🤝 I’m looking for help with **OpenCV and TensorFlow**
 - 🌱 I’m currently learning **DSA and Problem Solving**
-- 💬 Ask me about ** anything related to Data Visualization**
+- 💬 Ask me about **anything related to Data Visualization**
 - 📫 How to reach me **muditasingh3108@gmail.com**
 - 📄 Know about my experiences **www.linkedin.com/in/muditasinghb**
-- ⚡ Fun fact ** I'm almost a professional baker in the free time.**
+- ⚡ Fun fact **I'm almost a professional baker in the free time.**
 
 <div> <a href="https://www.linkedin.com/in/muditasinghb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/muditasinghb" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -32,12 +32,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muditasinghb&label=Profile%20views&color=0e75b6&style=flat" alt="muditasinghb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditasinghb&theme=" alt="muditasinghb" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muditasinghb&theme=dracula" alt="muditasinghb" /></a> </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditasinghb&layout=compact&theme=" alt=muditasinghb />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muditasinghb&layout=compact&theme=dark" alt=muditasinghb />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=muditasinghb&show_icons=true&locale=en&theme=" alt="muditasinghb" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=muditasinghb&show_icons=true&locale=en&theme=dark" alt="muditasinghb" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muditasinghb&theme=" alt="muditasinghb" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muditasinghb&theme=dark" alt="muditasinghb" /></p>
